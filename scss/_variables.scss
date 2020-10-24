@@ -1,0 +1,35 @@
+/* font-size */
+$font-size-base: 20px;
+$font-size-sm: 24px;
+$font-size-md: 64px;
+$font-size-lg: 80px;
+
+/* font-weight */
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+$font-weight-bolder: 900;
+
+/* line-height */
+$line-height-base: 30px;
+$line-height-sm: 36px;
+$line-height-md: 42px;
+$line-height-lg: 75px;
+$line-height-xl: 94px;
+
+/* color */
+$primary:  #891818;
+$black: #000;
+$white: #fff;
+
+/* spacer */
+$spacer: 8px;
+$spacer-1: $spacer*2;
+$spacer-2: $spacer*3;
+$spacer-3: $spacer*4;
+$spacer-4: $spacer*5;
+$spacer-5: $spacer*6;
+$spacer-6: $spacer*7;
+$spacer-7: $spacer*8;
+$spacer-8: $spacer*9;
+$spacer-9: $spacer*10;
+$spacer-10: $spacer*20;
