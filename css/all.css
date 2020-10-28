@@ -172,12 +172,15 @@ p {
 /* padding */
 .pb-1 {
   padding-bottom: 16px; }
-  .pb-1-6 {
-    padding-bottom: 56px; }
-  .pb-1-9 {
-    padding-bottom: 80px; }
-  .pb-1-10 {
-    padding-bottom: 160px; }
+
+.pb-6 {
+  padding-bottom: 56px; }
+
+.pb-9 {
+  padding-bottom: 80px; }
+
+.pb-10 {
+  padding-bottom: 160px; }
 
 .pt-1 {
   padding-top: 16px; }
