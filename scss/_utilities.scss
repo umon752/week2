@@ -96,13 +96,8 @@
         padding-bottom: $spacer-10;
     }
 }
-.pt {
-    &-1 {
-        padding-top: $spacer-1;
-    }
-    &-7 {
-        padding-top: $spacer-7;
-    }
+.pt-7 {
+    padding-top: $spacer-7;
 }
 
 /* margin */
